@@ -24,7 +24,7 @@ Setup Instructions
 
 Clone the Repository
 
-    git clone <your-github-repo-url>
+    git clone https://github.com/PoojithaBonthu/collaborative_canvas
     cd collaborative-canvas
 
 Install Dependencies
